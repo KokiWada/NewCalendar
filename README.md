@@ -1,0 +1,7 @@
+# NewCalendar
+ViewControllerはアプリが立ち上がった時にロードされるクラスです
+CameraOfClassは撮影して写真を登録することが選択された時に呼ばれるクラスです
+PhotoLibraryはカメラロールから写真が登録されることが選択された時に呼ばれるクラスです
+ImageViewControllerはプレビューの画像がタップされた時に呼ばれるクラスです
+Event.swiftはRealmで保存する値が格納されるクラスです。
+
